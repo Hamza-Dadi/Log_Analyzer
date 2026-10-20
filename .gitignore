@@ -1,0 +1,16 @@
+# Environnements virtuels
+.venv/
+__pycache__/
+*.py[oc]
+build/
+dist/
+*.egg-info
+
+# Fichiers temporaires
+*.tar.gz
+*.crdownload
+
+# Rapports et documents personnels (stockes en local hors de git)
+RAPPORT_PROJET.md
+RAPPORT_PROJET.pdf
+*.pdf
