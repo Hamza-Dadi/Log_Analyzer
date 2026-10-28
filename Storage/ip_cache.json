@@ -1,0 +1,366 @@
+{
+  "109.109.109.109": {
+    "country": "NL",
+    "city": "Aalsmeer",
+    "region": "North Holland",
+    "org": "AS30925 DELTA Fiber Nederland B.V.",
+    "loc": "52.2592,4.7597"
+  },
+  "109.199.110.135": {
+    "country": "FR",
+    "city": "Lauterbourg",
+    "region": "Grand Est",
+    "org": "AS51167 Contabo GmbH",
+    "loc": "48.9751,8.1785"
+  },
+  "203.171.18.62": {
+    "country": "VN",
+    "city": "Hanoi",
+    "region": "Hanoi",
+    "org": "AS45903 CMC Telecom Infrastructure Company",
+    "loc": "21.0245,105.8412"
+  },
+  "45.148.10.157": {
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "North Holland",
+    "org": "AS48090 TECHOFF SRV LIMITED",
+    "loc": "52.3740,4.8897"
+  },
+  "45.148.10.121": {
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "North Holland",
+    "org": "AS48090 TECHOFF SRV LIMITED",
+    "loc": "52.3740,4.8897"
+  },
+  "178.20.210.185": {
+    "country": "FI",
+    "city": "Helsinki",
+    "region": "Uusimaa",
+    "org": "AS210006 Shereverov Marat Ahmedovich",
+    "loc": "60.1695,24.9354"
+  },
+  "45.148.10.152": {
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "North Holland",
+    "org": "AS48090 TECHOFF SRV LIMITED",
+    "loc": "52.3740,4.8897"
+  },
+  "45.148.10.151": {
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "North Holland",
+    "org": "AS48090 TECHOFF SRV LIMITED",
+    "loc": "52.3740,4.8897"
+  },
+  "92.118.39.236": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "45.148.10.147": {
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "North Holland",
+    "org": "AS48090 TECHOFF SRV LIMITED",
+    "loc": "52.3740,4.8897"
+  },
+  "45.148.10.141": {
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "North Holland",
+    "org": "AS48090 TECHOFF SRV LIMITED",
+    "loc": "52.3740,4.8897"
+  },
+  "92.118.39.195": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "92.118.39.196": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "92.118.39.235": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "92.118.39.197": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "92.118.39.23": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "200.89.69.247": {
+    "country": "CL",
+    "city": "Santiago",
+    "region": "Santiago Metropolitan",
+    "org": "AS23140 Universidad de Chile",
+    "loc": "-33.4569,-70.6483"
+  },
+  "45.227.254.170": {
+    "country": "LT",
+    "city": "Vilnius",
+    "region": "Vilnius",
+    "org": "AS267784 Flyservers S.A.",
+    "loc": "54.6892,25.2798"
+  },
+  "2.57.122.194": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "2.57.122.190": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "2.57.122.191": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "2.57.122.193": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "178.20.210.186": {
+    "country": "FI",
+    "city": "Helsinki",
+    "region": "Uusimaa",
+    "org": "AS210006 Shereverov Marat Ahmedovich",
+    "loc": "60.1695,24.9354"
+  },
+  "2.57.122.192": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "2.57.122.197": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "2.57.122.195": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "2.57.122.238": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "80.94.92.168": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "139.19.117.131": {
+    "country": "DE",
+    "city": "Saarbrücken",
+    "region": "Saarland",
+    "org": "AS680 Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+    "loc": "49.2326,7.0098"
+  },
+  "141.11.21.145": {
+    "country": "FR",
+    "city": "Lille",
+    "region": "Hauts-de-France",
+    "org": "AS16276 OVH SAS",
+    "loc": "50.6339,3.0551"
+  },
+  "104.248.161.154": {
+    "country": "GB",
+    "city": "London",
+    "region": "England",
+    "org": "AS14061 DigitalOcean, LLC",
+    "loc": "51.5085,-0.1257"
+  },
+  "162.214.75.117": {
+    "country": "US",
+    "city": "Phoenix",
+    "region": "Arizona",
+    "org": "AS31898 Oracle Corporation",
+    "loc": "33.4484,-112.0740"
+  },
+  "2.57.122.189": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "2.57.122.196": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "87.251.64.145": {
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Mazovia",
+    "org": "AS212835 Shesternin Vladimir Anatolievich",
+    "loc": "52.2298,21.0118"
+  },
+  "154.16.112.232": {
+    "country": "US",
+    "city": "Buffalo",
+    "region": "New York",
+    "org": "AS14670 WHG Hosting Services Ltd",
+    "loc": "42.8865,-78.8784"
+  },
+  "77.90.185.28": {
+    "country": "LT",
+    "city": "Vilnius",
+    "region": "Vilnius",
+    "org": "AS213790 Limited Network LTD",
+    "loc": "54.6892,25.2798"
+  },
+  "78.111.67.246": {
+    "country": "DE",
+    "city": "Düsseldorf",
+    "region": "North Rhine-Westphalia",
+    "org": "AS33984 Surfplanet GmbH",
+    "loc": "51.2232,6.7793"
+  },
+  "80.94.92.171": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "87.251.64.147": {
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Mazovia",
+    "org": "AS212835 Shesternin Vladimir Anatolievich",
+    "loc": "52.2298,21.0118"
+  },
+  "87.251.64.149": {
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Mazovia",
+    "org": "AS212835 Shesternin Vladimir Anatolievich",
+    "loc": "52.2298,21.0118"
+  },
+  "87.251.64.144": {
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Mazovia",
+    "org": "AS212835 Shesternin Vladimir Anatolievich",
+    "loc": "52.2298,21.0118"
+  },
+  "211.234.111.116": {
+    "country": "KR",
+    "city": "Seoul",
+    "region": "Seoul",
+    "org": "AS3786 LG DACOM Corporation",
+    "loc": "37.5660,126.9784"
+  },
+  "168.220.237.171": {
+    "country": "IN",
+    "city": "Delhi",
+    "region": "Delhi",
+    "org": "AS151734 WEBYNE DATA CENTRE PRIVATE LIMITED",
+    "loc": "28.6519,77.2315"
+  },
+  "52.174.67.71": {
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "North Holland",
+    "org": "AS8075 Microsoft Corporation",
+    "loc": "52.3740,4.8897"
+  },
+  "193.46.255.86": {
+    "country": "RO",
+    "city": "Timişoara",
+    "region": "Timiș County",
+    "org": "AS47890 UNMANAGED LTD",
+    "loc": "45.7537,21.2257"
+  },
+  "148.153.245.161": {
+    "country": "US",
+    "city": "Dallas",
+    "region": "Texas",
+    "org": "AS63199 CDS Global Cloud Co., Ltd",
+    "loc": "32.7831,-96.8067"
+  },
+  "172.94.9.168": {
+    "country": "NL",
+    "city": "Kerkrade",
+    "region": "Limburg",
+    "org": "AS213790 Limited Network LTD",
+    "loc": "50.8658,6.0625"
+  },
+  "213.209.159.158": {
+    "country": "DE",
+    "city": "Aachen",
+    "region": "North Rhine-Westphalia",
+    "org": "AS208137 Feo Prest SRL",
+    "loc": "50.7766,6.0834"
+  },
+  "148.153.121.224": {
+    "country": "US",
+    "city": "Dallas",
+    "region": "Texas",
+    "org": "AS63199 CDS Global Cloud Co., Ltd",
+    "loc": "32.7831,-96.8067"
+  },
+  "38.96.178.220": {
+    "country": "US",
+    "city": "New York City",
+    "region": "New York",
+    "org": "AS174 Cogent Communications, LLC",
+    "loc": "40.7143,-74.0060"
+  },
+  "102.88.137.80": {
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Lagos",
+    "org": "AS29465 MTN NIGERIA Communication limited",
+    "loc": "6.4541,3.3947"
+  }
+}
