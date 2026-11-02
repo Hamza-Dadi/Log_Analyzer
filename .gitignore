@@ -10,5 +10,12 @@ dist/
 *.tar.gz
 *.crdownload
 
-# Cache local des IPs (optionnel si on veut éviter de re-committer les données de cache)
-# Storage/ip_cache.json
+# Base de données SQLite (générée dynamiquement par le script)
+*.db
+*.sqlite
+*.sqlite3
+
+# Rapports et documents personnels (stockés en local hors de git)
+RAPPORT_PROJET.md
+RAPPORT_PROJET.pdf
+*.pdf
