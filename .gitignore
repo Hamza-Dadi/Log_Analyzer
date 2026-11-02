@@ -1,0 +1,14 @@
+# Environnements virtuels
+.venv/
+__pycache__/
+*.py[oc]
+build/
+dist/
+*.egg-info
+
+# Fichiers temporaires et téléchargements
+*.tar.gz
+*.crdownload
+
+# Cache local des IPs (optionnel si on veut éviter de re-committer les données de cache)
+# Storage/ip_cache.json
